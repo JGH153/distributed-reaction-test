@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@angular-devkit/architect@0.900.4":
+"@angular-devkit/architect@0.900.4", "@angular-devkit/architect@^0.900.0-0 || ^0.900.0":
   version "0.900.4"
   resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.900.4.tgz#6daf95b9c2ec51c38ca451c3ff7cf64e5404a04a"
   integrity sha512-qbD7q+5lKgxpA+hGPfBLQRZukNO1Ok4YePevi7xt6pdfNatIqjxqYch7w/Ce0GvrOeimzSR1yC7STV5gjdoL3A==
@@ -187,6 +187,11 @@
   version "9.0.4"
   resolved "https://registry.yarnpkg.com/@angular/core/-/core-9.0.4.tgz#6baa5ec6c594b47de541e47f4aa37241adec393a"
   integrity sha512-6RqQb1GO2uglSlgiGbxhvy8plztZtABCWLRn0X+T1PnrxoqgxqA5WkKJjGxao+1M/ECW1V0fw4Xy7DE6KvAJwQ==
+
+"@angular/fire@^6.0.0-rc.1":
+  version "6.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/@angular/fire/-/fire-6.0.0-rc.1.tgz#bb8de3509b61a0ff30d07a239bbd9ae6e437bcb9"
+  integrity sha512-4zkUzuBnQhQ/Ij9wQ0yYrNMpu6T7ZLLvqkFljYZ3Gu36VmZSBs/KYXBUXmyxwOuMhe4hm5ev2LM/P87g19j0Hw==
 
 "@angular/forms@~9.0.0":
   version "9.0.4"
